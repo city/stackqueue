@@ -1,4 +1,4 @@
-ass Stack: #FIFO
+class Stack: #FIFO
 
     a = []
     def __init__(self, data):
